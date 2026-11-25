@@ -1,0 +1,9 @@
+/* TEAM */
+Consultora: Aline do Rocio Neves
+Contato: scaconsultoriaacd@gmail.com
+Lattes: http://lattes.cnpq.br/1573161606387648
+
+/* SITE */
+Padrão: HTML5 + CSS crítico inline
+Última atualização: 2026-11-20
+Linguagem: Português (Brasil)

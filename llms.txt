@@ -1,0 +1,19 @@
+# llms.txt — Consultoria de Pesquisa Acadêmica SCA
+# Mapper para agentes de IA (ChatGPT, Claude, Perplexity, Gemini)
+
+# Nome do site
+# Consultoria de Pesquisa Acadêmica — SCA Consultoria
+
+> Orientação metodológica individualizada para teses, dissertações e artigos científicos, com foco em reestruturação textual e planejamento de pós-graduação. Atendimento online via Google Meet, conduzido por Aline do Rocio Neves (Doutoranda PUCPR, Mestra em Direitos Humanos).
+
+## Serviços
+- [Reestruturação Textual e Metodológica](https://consultoriadepesquisa.com.br/#servicos)
+- [Orientação Acadêmica Individualizada](https://consultoriadepesquisa.com.br/#servicos)
+- [Orientação Profissional e Pós-Graduação](https://consultoriadepesquisa.com.br/#servicos)
+
+## Autoridade
+- [Currículo Lattes — Aline Neves](http://lattes.cnpq.br/1573161606387648)
+
+## Contato
+- [WhatsApp para diagnóstico](https://wa.me/message/JXB7HKTGOJ7WE1)
+- [Instagram @sca.consultoriaacd](https://www.instagram.com/sca.consultoriaacd/)

@@ -1,0 +1,24 @@
+# robots.txt — consultoriadepesquisa.com.br
+# Atualizado em: 2026-11-20
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://consultoriadepesquisa.com.br/sitemap.xml
+
+# --- Crawlers de IA (opcional: remova ou ajuste se quiser bloquear) ---
+# Permitir explicitamente os principais agentes de descoberta por IA
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# Bloquear caminhos que não existem (evita requisições desnecessárias)
+Disallow: /wp-admin/
+Disallow: /admin/
+Disallow: /tmp/
